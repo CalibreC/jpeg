@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/calibrec/projects/jpeg/build",
+  "command": "/usr/bin/cc -DLOG_USE_COLOR -I/home/calibrec/projects/jpeg/.  -o CMakeFiles/jpeg.dir/main.c.o -c /home/calibrec/projects/jpeg/main.c",
+  "file": "/home/calibrec/projects/jpeg/main.c"
+},
+{
+  "directory": "/home/calibrec/projects/jpeg/build",
+  "command": "/usr/bin/cc -DLOG_USE_COLOR -I/home/calibrec/projects/jpeg/.  -o CMakeFiles/jpeg.dir/log.c.o -c /home/calibrec/projects/jpeg/log.c",
+  "file": "/home/calibrec/projects/jpeg/log.c"
+},
+{
+  "directory": "/home/calibrec/projects/jpeg/build",
+  "command": "/usr/bin/cc -DLOG_USE_COLOR -I/home/calibrec/projects/jpeg/.  -o CMakeFiles/jpeg.dir/table.c.o -c /home/calibrec/projects/jpeg/table.c",
+  "file": "/home/calibrec/projects/jpeg/table.c"
+}
+]
